@@ -1,0 +1,5 @@
+org\password\generate\PasswordGenerator\generator\CheckPasswordTest.class
+org\password\generate\PasswordGenerator\AppTest.class
+org\password\generate\PasswordGenerator\generator\AlphabetTest.class
+org\password\generate\PasswordGenerator\generator\PasswordGeneratorTest.class
+org\password\generate\PasswordGenerator\controller\AppControllerTest.class
