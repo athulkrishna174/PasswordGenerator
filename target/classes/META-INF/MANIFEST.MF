@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: athul
+Build-Jdk: 19
+Class-Path: libs/poi-5.2.2.jar libs/commons-codec-1.15.jar libs/commons-
+ collections4-4.4.jar libs/commons-math3-3.6.1.jar libs/commons-io-2.11.
+ 0.jar libs/SparseBitSet-1.2.jar libs/log4j-api-2.17.2.jar
+Main-Class: org.password.generate.PasswordGenerator.App
+Created-By: Maven Integration for Eclipse
+
